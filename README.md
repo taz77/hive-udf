@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/simplymeasured/hive-udf.png)](https://travis-ci.org/simplymeasured/hive-udf)
+
 hive-udf
 ========
 
